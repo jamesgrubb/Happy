@@ -1,0 +1,4 @@
+[build]
+base = "happy"
+publish = "happy/build"
+command = "npm run build"
